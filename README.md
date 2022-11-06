@@ -1,2 +1,3 @@
-# listwish
-An asymmetric wishlisting app for gift receivers to create their lists blinded of what's been taken so far and for gift givers to select gifts without duplicated efforts. 
+# SeekHub - For Job Seekers
+
+Journaling software to keep track of what jobs have been applied to, what their status is, add notes about the interviewing process, and creating calendar events as reminders for interviews/actions to take.
